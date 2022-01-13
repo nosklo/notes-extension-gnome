@@ -1,4 +1,4 @@
-// notes@maestroschan.fr/prefs.js
+// notes@nosklo.info/prefs.js
 // GPL v3
 // Copyright 2018-2021 Romain F. T.
 

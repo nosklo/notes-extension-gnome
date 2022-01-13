@@ -9,8 +9,8 @@ else
 fi
 mkdir -p $INSTALL_DIR
 
-echo "Installing extension files in $INSTALL_DIR/notes@maestroschan.fr"
-cp -r notes@maestroschan.fr $INSTALL_DIR
+echo "Installing extension files in $INSTALL_DIR/notes@nosklo.info"
+cp -r notes@nosklo.info $INSTALL_DIR
 
 echo "Done."
 exit 0

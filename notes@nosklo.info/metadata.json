@@ -1,0 +1,14 @@
+{
+	"description": "Sticky notes Reborn for the GNOME Shell desktop.",
+	"gettext-domain": "notes-extension",
+	"name": "Notes",
+	"shell-version": [
+		"41",
+		"40"
+	],
+	"url": "https://github.com/nosklo/notes-extension-gnome/tree/reborn",
+	"uuid": "notes@nosklo.info",
+	"settings-schema": "org.gnome.shell.extensions.notes-extension",
+	"version": 24
+}
+

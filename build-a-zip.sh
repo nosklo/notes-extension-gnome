@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EXT_ID=notes@maestroschan.fr
+EXT_ID=notes@nosklo.info
 
 ./update-and-compile-translations.sh --all
 
