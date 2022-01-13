@@ -33,7 +33,6 @@ Older version support is dropped
 | pt_BR | Brazilian Portuguese |
 | tr    | Turkish       |
 | zh_TW | Chinese (traditional) |
-| pt_BR | Brazilian Portuguese |
 
 ----
 
