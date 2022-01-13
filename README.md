@@ -30,6 +30,7 @@ Older version support is dropped
 | fr    | French        |
 | hr    | Croatian      |
 | nl    | Dutch         |
+| pt_BR | Brazilian Portuguese |
 | tr    | Turkish       |
 | zh_TW | Chinese (traditional) |
 | pt_BR | Brazilian Portuguese |
