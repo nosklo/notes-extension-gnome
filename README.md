@@ -10,12 +10,12 @@ I don't plan on maintaining it further, so if the original author updates his ex
 
 ### Compatible versions
 
-Version 23 has been released the 13/01/2022
+Version 22_1 has been released the 13/01/2022
 
-| GNOME Shell version | Extension version 23
-|---------------------|----------------------|
-| **41**              | Yes                  |
-| **40**              | Yes                  |
+| GNOME Shell version | Extension version 22_1
+|---------------------|-----------------------|
+| **41**              | Yes                   |
+| **40**              | Yes                   |
 
 Older version support is dropped
 
