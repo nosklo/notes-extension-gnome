@@ -1,7 +1,6 @@
-# Sticky notes extension
+# Sticky Reborn notes extension
 
-This is a fork of https://github.com/maoschanz/notes-extension-gnome, a really nice GNOME Shell extension 
-providing customizable sticky notes.
+This is a fork of [Sticky Notes](https://github.com/maoschanz/notes-extension-gnome), a really nice GNOME Shell extension by Romain F. T. that provides customizable sticky notes.
 
 It was forked only to add rudimentary support to Gnome 40+, because we need it and it wasn't ready yet.
 
@@ -49,6 +48,6 @@ Another option is to download the release zip and use the command:
 
 ## Storage
 
-Data is stored in your disk: files are still in `~/.local/share/maestroschan.fr` to autoload 
+Data is stored in your disk: files are still in `~/.local/share/maestroschan.fr` and will autoload 
 your old files without problems.
 
