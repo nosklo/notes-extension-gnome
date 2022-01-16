@@ -9,9 +9,8 @@ A GNOME Shell extension providing customizable sticky notes.
 Version 22_1 has been released 
 
 | GNOME Shell version | 22_1 | 22  | 20  | 19  | 18  |
-
 |---------------------|------|-----|-----|-----|-----|
-| **41**              | Yes  | No  |     |     |     |     |
+| **41**              | Yes  | No  |     |     |     | 
 | **40**              | Yes  | No  |     |     |     |
 | **3.38**            | No   | Yes | Yes |     |     |
 | **3.36**            | No   | Yes | Yes | Yes |     |
