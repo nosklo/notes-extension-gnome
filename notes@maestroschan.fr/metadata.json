@@ -5,7 +5,8 @@
 	"name": "Notes",
 	"shell-version": [
 		"41",
-		"40"
+		"40",
+		"42"
 	],
 	"url": "https://github.com/maoschanz/notes-extension-gnome",
 	"uuid": "notes@maestroschan.fr",
