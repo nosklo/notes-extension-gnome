@@ -1,4 +1,4 @@
-// notes@maestroschan.fr/menus.js
+// notes@nosklo.info/menus.js
 // GPL v3
 // Copyright 2018-2021 Romain F. T.
 
@@ -215,7 +215,7 @@ class NoteOptionsMenu {
 		if (typeof ExtensionUtils.openPrefs === 'function') {
 			ExtensionUtils.openPrefs();
 		} else {
-			Util.spawn(['gnome-shell-extension-prefs', 'notes@maestroschan.fr']);
+			Util.spawn(['gnome-shell-extension-prefs', 'notes@nosklo.info']);
 		}
 		Extension.NOTES_MANAGER._hideNotes();
 	}

@@ -1,4 +1,4 @@
-// notes@maestroschan.fr/noteBox.js
+// notes@nosklo.info/noteBox.js
 // GPL v3
 // Copyright 2018-2021 Romain F. T.
 
@@ -17,8 +17,10 @@ const Dialog = Me.imports.dialog;
 const Gettext = imports.gettext.domain('notes-extension');
 const _ = Gettext.gettext;
 
-// ~/.local/share/notes@maestroschan.fr
+// ~/.local/share/maestroschan.fr 
 const PATH = GLib.build_pathv('/', [GLib.get_user_data_dir(), 'notes@maestroschan.fr']);
+// XXX: will keep the same path for now to load old notes automatically and in case 
+// the author decides to update extension again
 
 const MIN_HEIGHT = 75;
 const MIN_WIDTH = 200;

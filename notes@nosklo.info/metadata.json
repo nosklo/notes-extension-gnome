@@ -1,0 +1,14 @@
+{
+	"description": "Sticky Reborn is a notes extension for the GNOME Shell desktop.\n\nIt is a fork of Sticky Notes with rudimentary gnome 40 support, which will be dropped if the original author updates upstream.",
+	"gettext-domain": "notes-extension",
+	"name": "Sticky Reborn",
+	"shell-version": [
+		"41",
+		"40"
+	],
+	"url": "https://github.com/nosklo/notes-extension-gnome/tree/reborn",
+	"uuid": "notes@nosklo.info",
+	"settings-schema": "org.gnome.shell.extensions.notes-extension",
+	"version": 24
+}
+

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EXTENSION_ID="notes@maestroschan.fr"
+EXTENSION_ID="notes@nosklo.info"
 TRANSLATION_ID="notes-extension"
 
 if [ $# = 0 ]; then

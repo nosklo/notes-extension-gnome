@@ -1,4 +1,4 @@
-// notes@maestroschan.fr/extension.js
+// notes@nosklo.info/extension.js
 // GPL v3
 // Copyright 2018-2021 Romain F. T.
 
@@ -17,9 +17,10 @@ const Gettext = imports.gettext.domain('notes-extension');
 const _ = Gettext.gettext;
 
 //------------------------------------------------------------------------------
-
 const PATH = GLib.build_pathv('/', [GLib.get_user_data_dir(), 'notes@maestroschan.fr']);
-// which is usually ~/.local/share/notes@maestroschan.fr
+// which is usually ~/.local/share/maestroschan.fr 
+// XXX: will keep the same path for now to load old notes automatically and in case 
+// the author decides to update extension again
 
 var NOTES_MANAGER;
 var SETTINGS;
