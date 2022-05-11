@@ -4,7 +4,8 @@
 	"name": "Sticky Reborn",
 	"shell-version": [
 		"41",
-		"40"
+		"40",
+                "42"
 	],
 	"url": "https://github.com/nosklo/notes-extension-gnome/tree/reborn",
 	"uuid": "notes@nosklo.info",
